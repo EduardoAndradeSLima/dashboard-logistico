@@ -1,18 +1,6 @@
 # Radar Logístico
 
-Dashboard didático em Streamlit para monitoramento de atrasos em entregas.
-
-## Como executar
-
-```powershell
-cd outputs\dashboard_logistico
-python -m pip install -r requirements.txt
-python -m streamlit run app.py
-```
-
-O app abre em `http://localhost:8501`.
-
-No Windows, também é possível iniciar com dois cliques em `iniciar_dashboard.bat`.
+Dashboard em Streamlit para monitoramento de atrasos em entregas criado para o desafio de dados da vivo 2026.
 
 ## Hospedagem
 
@@ -31,6 +19,3 @@ Aplicação publicada: https://dashboard-logistico-8sh7.onrender.com
 - upload opcional de arquivo CSV no mesmo formato da base;
 - exportação dos dados filtrados.
 
-## Colunas esperadas no CSV
-
-`id_entrega`, `transportadora`, `regiao`, `prazo_dias`, `dias_reais`.
