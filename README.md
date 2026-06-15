@@ -18,6 +18,8 @@ No Windows, também é possível iniciar com dois cliques em `iniciar_dashboard.
 
 O arquivo `render.yaml` permite publicar o dashboard como Web Service no Render.
 
+Aplicação publicada: https://dashboard-logistico-8sh7.onrender.com
+
 ## Recursos
 
 - KPIs de atraso, prazo e criticidade;
