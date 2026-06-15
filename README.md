@@ -14,6 +14,10 @@ O app abre em `http://localhost:8501`.
 
 No Windows, também é possível iniciar com dois cliques em `iniciar_dashboard.bat`.
 
+## Hospedagem
+
+O arquivo `render.yaml` permite publicar o dashboard como Web Service no Render.
+
 ## Recursos
 
 - KPIs de atraso, prazo e criticidade;
